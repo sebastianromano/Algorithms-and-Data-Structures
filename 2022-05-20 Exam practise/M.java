@@ -1,3 +1,7 @@
+/*
+ * The following code was featured in the IT-University exam (2019-05-20) and was shared by the teachers for practise. 
+ */
+
 public class M {
     int[] L = { 0 };
     int N = 0;
@@ -33,7 +37,7 @@ public class M {
 
     public static void main(String[] args) {
         M newM = new M();
-        
+
         System.out.println("2.b"); // exam question 2.b
         newM.insert(3);
         System.out.println(newM.contains(3));
