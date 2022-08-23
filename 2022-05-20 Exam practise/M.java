@@ -30,4 +30,18 @@ public class M {
     int reportmax() {
         return max;
     }
+
+    public static void main(String[] args) {
+        M newM = new M();
+        
+        System.out.println("2.b"); // exam question 2.b
+        newM.insert(3);
+        System.out.println(newM.contains(3));
+        System.out.println(newM.contains(4));
+        newM.insert(3);
+        System.out.println(newM.reportmax());
+        newM.insert(4);
+        System.out.println(newM.contains(3));
+        System.out.println();
+    }
 }
