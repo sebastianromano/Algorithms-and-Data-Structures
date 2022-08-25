@@ -1,3 +1,5 @@
+package Two;
+
 /*
  * The following code was featured in the *IT University of Copenhagen *Algorithms and Data Structures** exam on 2019-05-20 
  * The code was shared online by the teachers for practise
@@ -12,7 +14,7 @@
  *  3. ...
  */
 
-public class M {
+public class ABCDEFGHIJ {
     int[] L = { 0 };
     int N = 0;
     int max = Integer.MIN_VALUE; // max is used to find the maximum value in the array
@@ -54,7 +56,7 @@ public class M {
     }
 
     public static void main(String[] args) {
-        M newM = new M();
+        ABCDEFGHIJ newM = new ABCDEFGHIJ();
         System.out.println(newM.reportmax());
         System.out.println(newM.reportmin());
 
