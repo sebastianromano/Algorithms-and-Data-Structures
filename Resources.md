@@ -1,0 +1,9 @@
+- https://github.com/TheAlgorithms/Java
+- https://github.com/tsiege/Tech-Interview-Cheat-Sheet
+- https://github.com/ashish-chopra/Structures
+- https://github.com/donnemartin/interactive-coding-challenges
+- https://github.com/gaerae/awesome-algorithms-education
+- https://github.com/tayllan/awesome-algorithms
+- https://github.com/itu-algorithms/itu.algs4
+- https://github.com/teivah/algodeck
+- https://github.com/cooervo/Algorithms-DataStructures-BigONotation
